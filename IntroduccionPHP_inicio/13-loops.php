@@ -32,4 +32,9 @@ for ($i = 1; $i <= 100; $i++) {
     }
 }
 
+
+
+
+
+
 include 'includes/footer.php';
