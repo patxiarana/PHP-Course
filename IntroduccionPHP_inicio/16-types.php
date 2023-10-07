@@ -1,7 +1,7 @@
-<?php include 'includes/header.php';
-
 
 declare(stritc_types = 1) ; 
+
+<?php include 'includes/header.php';
 
 function usuarioAutenticado(bool $autenticado) : string | int {
    if($autenticado) {
